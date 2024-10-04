@@ -1,2 +1,2 @@
 # R-Airport FlightsProject
-Using the 'flights' dataset from RStudio, I identified outliers and created linear and multiple regression models in R-Studio with New York City flight data.
+To help understand what causes delays at NYC airports, I analyzed the nycflights13 dataset that contains information about all flights that departed from NYC (e.g. EWR, JFK and LGA) over a span of one year.  I identified and removed outliers in the data and ran linear and multiple regression models in R-Studio to help identify relationships between various variables and the departure delay.
