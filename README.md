@@ -1,2 +1,2 @@
 # R-Airport FlightsProject
-Using the 'flights' dataset from RStudio, I used the pipe notation throughout this assignment for more readable code to answer common questions in exploratory data analysis.
+Using the 'flights' dataset from RStudio, I identified outliers and created linear and multiple regression models in R-Studio with New York City flight data.
